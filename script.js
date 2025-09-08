@@ -50,13 +50,14 @@ yesButton.addEventListener("click", function() {
     document.body.innerHTML = `
         <div class="yes-screen">
             <h1 class="yes-text">!!!yeahhh, Bạn bị GAY!! ( >᎑<)♡︎ᐝ</h1>
-            <img src="video/0000.gif" alt="xx" class="yes-image">
+            <video src="video/2345.mp4" controls autoplay class="yes-image"></video>
         </div>
     `;
 
     document.body.style.overflow = "hidden";
 
 });
+
 
 
 
