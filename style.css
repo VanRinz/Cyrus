@@ -1,5 +1,5 @@
 body {
-    background-color: #f1d5da; /* 浅粉色 */
+    background-color: #5ee4ff; /* 浅粉色 */
     text-align: center;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -38,12 +38,12 @@ button {
 }
 
 #yes {
-    background-color: #d4818e; /* 粉色 */
+    background-color: #ff0026; /* 粉色 */
     color: white;
 }
 
 #no {
-    background-color: #6784b1; /* 蓝色 */
+    background-color: #00aaff; /* 蓝色 */
     color: white;
     position: relative;
 }
@@ -54,7 +54,7 @@ button {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #ffdae0; /* 粉色 */
+    background-color: #15fdfd; /* 粉色 */
     display: flex;
     flex-direction: column;
     align-items: center;
